@@ -1,6 +1,6 @@
 import React from 'react';
 
-const About = () => {
+export const About = () => {
     return (
         <h1>
             Это приложение создано в качестве обуч. ролика
